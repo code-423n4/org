@@ -1,2 +1,1 @@
-# org
-Placeholder for deprecated 'org' repo
+This repository has been permanently deprecated. For questions or concerns, please use this [form](https://code4rena.com/help/).
